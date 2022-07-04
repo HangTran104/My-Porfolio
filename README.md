@@ -1,7 +1,8 @@
 # My-Portfolio
 This page aims to navigate to my projects' page. These projects may include Data Visualization, EDA process, how to use statistics when performing statistical analysis, ETL process, and building models for predictions.
 
-# EDA process for Credit risk management - Project 1 - https://github.com/HangTran104/RISK-MANAGEMENT-BASIC-PROCESS
+# EDA process for Credit risk management - Project 1
+Link: https://github.com/HangTran104/RISK-MANAGEMENT-BASIC-PROCESS
 To carry out this project, I download Credit Risk Dataset from Kaggle. The data is almost clean and ready for EDA processing. In the project, I try to visualize data and perform statistical analysis for the variables in different aspects such as univariable exploring, and multivariable exploring to decide which variable is the best choice for including in the input variable for prediction.
 
 # Build model for Credit Risk prediction - Project 2 - 
